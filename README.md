@@ -5,15 +5,15 @@ El usuario puede realizar una búsqueda por el nombre de la ciudad y el pais.
 
 Cada vez que el usuario busque el pronóstico de una ciudad se muestra el resultado indicando:
 
-La temperatura
+1. La temperatura
 
-Presión
+2. Presión
 
-Humedad
+3. Humedad
 
-Temperatura máxima
+3. Temperatura máxima
 
-Temperatura mínima
+4. Temperatura mínima
 
 
 Requisitos
