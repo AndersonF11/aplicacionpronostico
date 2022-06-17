@@ -1,0 +1,41 @@
+{
+  "name": "pronostico-clima-app",
+  "version": "1.0.0",
+  "description": "![](./docs/screenshot.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "build": "NODE_ENV=production webpack -p",
+    "react-google-maps": "*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross": "^1.0.0",
+    "env": "^0.0.2",
+    "google-maps-react": "^2.0.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "simple-react-google-maps": "^1.1.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
+    "@babel/plugin-proposal-class-properties": "^7.17.12",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.18.2",
+    "@babel/preset-react": "^7.17.12",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^2.1.1",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.3"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
