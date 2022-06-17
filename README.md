@@ -21,5 +21,5 @@ Requisitos
 tener instalado node en su ultima version
 utilizar editor de codigo 
 ejecutar la aplicacion en la consola del mismo editor utilizando el comando
-npm start 
+npm start
 
